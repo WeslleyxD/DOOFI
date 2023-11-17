@@ -1,4 +1,4 @@
-# 🔎 Índice 
+# Índice 
 - [Descrição](#descrição)
 - [Tecnologias](#tecnologias)
 - [Instalação](#instalação)
@@ -7,11 +7,11 @@
 - [Contato](#contato)
 
 
-# 📖 Descrição
+# Descrição
 `DOOFI`, projeto construindo no final da faculdade com o intuito de ser o back-end de um aplicativo de delivery. Na qual consta com sistema de autenticação, registro empresas parceiras e usuários, listagem dos produtos disponíveis nos diversos estabelecimentos, controle de estoque, entre outros. <br>
 <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/93230531/283944730-a61585f1-9dd1-4af2-b390-660e6f849f42.png" alt="Python" width="50%">
 
-# 📚 Tecnologias
+# Tecnologias
   <div style="display: inline-block">
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green">
@@ -19,7 +19,7 @@
   </div>
 
 
-# 🔨 Instalação
+# Instalação
   ### Requisitos
   > [!WARNING]\
   > Precisa ter Python3.9 ou superior instalado.
@@ -67,7 +67,7 @@
      ```
 
 
-# ☝️ Contato
+# Contato
   <div style="display: inline-block">
     <a href="www.linkedin.com/in/weslley-pablo" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Python"></a>
   </div>
