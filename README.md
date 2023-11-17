@@ -9,10 +9,7 @@
 
 # Descrição
 `DOOFI`, projeto construindo no final da faculdade com o intuito de ser o back-end de um aplicativo de delivery. Na qual consta com sistema de autenticação, registro empresas parceiras e usuários, listagem dos produtos disponíveis nos diversos estabelecimentos, controle de estoque, entre outros. <br>
-<img src="https://github-statics.s3.us-east-2.amazonaws.com/doofi.png" alt="Python" width="50%">
-
-
-
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/93230531/283944730-a61585f1-9dd1-4af2-b390-660e6f849f42.png" alt="Python" width="50%">
 
 # Tecnologias
   <div style="display: inline-block">
