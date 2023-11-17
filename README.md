@@ -9,7 +9,7 @@
 
 # Descrição
 `DOOFI`, projeto construindo no final da faculdade com o intuito de ser o back-end de um aplicativo de delivery. Na qual consta com sistema de autenticação, registro empresas parceiras e usuários, listagem dos produtos disponíveis nos diversos estabelecimentos, controle de estoque, entre outros. <br>
-<img src="https://github.com/WeslleyxD/Django-Agenda/assets/93230531/065402c5-fc73-40d6-a048-edd6c6a31cfb.png" width="50%">
+<img src="https://github.com/WeslleyxD/DOOFI/assets/93230531/306b8e63-7d6b-4767-a08f-73c3f38b8155.png" width="50%">
 
 
 # Tecnologias
