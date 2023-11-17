@@ -9,7 +9,7 @@
 
 # Descrição
 `DOOFI`, projeto construindo no final da faculdade com o intuito de ser o back-end de um aplicativo de delivery. Na qual consta com sistema de autenticação, registro empresas parceiras e usuários, listagem dos produtos disponíveis nos diversos estabelecimentos, controle de estoque, entre outros. <br>
-<img src="image.png" width="50%">
+![Alt text](image.png)
 
 
 # Tecnologias
