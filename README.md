@@ -64,6 +64,9 @@
      python3 manage.py runserver
      ```
   9. Pronto, agora você pode explorar o projeto por completo!!!
+     ```sh
+     http://localhost:8000/
+     ```
 
 
 # Contato
